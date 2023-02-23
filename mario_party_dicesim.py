@@ -1,8 +1,7 @@
 # Super Mario Party Dice Simulation
 # ---------------------------------
 # Myles Harrison
-# myles@mylesharrison.com
-# http://www.everydayanalytics.com
+# http://www.mylesharrison.com
 
 import numpy as np
 import pandas as pd
