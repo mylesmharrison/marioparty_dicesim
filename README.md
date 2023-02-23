@@ -2,9 +2,7 @@
 
 Analysis, simulation, and plotting of the dice from Super Mario Party
 
-@author: Myles Harrison  
-@email: [myles at mylesharrison dot com](mailto:myles@mylesharrison.com)  
-@web: Backlink here: https://everydayanalytics.ca/2019/01/are-the-dice-in-mario-party-fair.html
+Backlink: https://mylesharrison.com/2019/01/13/Are-the-Dice-in-Mario-Party-Fair.html
 
 Batch plotting:
 ```python
